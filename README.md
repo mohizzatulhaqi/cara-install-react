@@ -1,6 +1,7 @@
 # Panduan Instalasi React 
 
 ## Apa Itu React?
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 React adalah library JavaScript untuk membangun user interface berbasis komponen. React pertama kali dibuat oleh **Jordan Walke**, seorang insinyur di Facebook (sekarang Meta). Pada tahun 2011, React digunakan untuk mengembangkan halaman **News Feed Facebook**. Setahun kemudian, teknologi ini diadopsi oleh Instagram. Akhirnya, pada tahun 2013, React dirilis ke publik sebagai proyek open-source.
 
 ## Mengapa Menggunakan Vite?
@@ -10,6 +11,8 @@ React adalah library JavaScript untuk membangun user interface berbasis komponen
 - **Lebih Cepat**: Vite lebih cepat dalam proses build dan development.
 - **Hot Module Replacement (HMR) yang Efisien**: Memungkinkan perubahan kode langsung terlihat tanpa perlu me-refresh halaman.
 - **Menggunakan ES Modules (ESM)**: Saat pengembangan, Vite menggunakan ESM di browser, dan saat production, ia menggunakan bundling tradisional untuk optimasi maksimal.
+
+![Vite vs CRA](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F11u9am03pj3ducugabrh.png)
 
 ---
 
@@ -35,7 +38,7 @@ Saat proses ini berjalan, Vite akan meminta kamu untuk memilih template. Pilih *
 ```sh
 react
 ```
-Jika ingin menggunakan TypeScript, pilih **react-ts**.
+Jika ingin menggunakan JavaScript, pilih **react-js**.
 
 ---
 
