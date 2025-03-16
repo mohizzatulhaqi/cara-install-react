@@ -1,7 +1,7 @@
 # Panduan Instalasi React 
 
 ## Apa Itu React?
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100">
 React adalah library JavaScript untuk membangun user interface berbasis komponen. React pertama kali dibuat oleh **Jordan Walke**, seorang insinyur di Facebook (sekarang Meta). Pada tahun 2011, React digunakan untuk mengembangkan halaman **News Feed Facebook**. Setahun kemudian, teknologi ini diadopsi oleh Instagram. Akhirnya, pada tahun 2013, React dirilis ke publik sebagai proyek open-source.
 
 ## Mengapa Menggunakan Vite?
