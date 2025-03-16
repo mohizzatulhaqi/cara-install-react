@@ -73,7 +73,7 @@ Jika port default sudah digunakan oleh aplikasi lain, Vite akan memilih port alt
 
 ---
 
-### 5. Mulai Koding! 🎉
+### 5. Mulai Koding! 
 Sekarang proyek React kamu sudah siap! 
 
 
